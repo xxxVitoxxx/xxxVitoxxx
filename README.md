@@ -7,3 +7,6 @@
 <div align="center">
   <img alt="snake game" src="https://raw.githubusercontent.com/xxxVitoxxx/xxxVitoxxx/output/github-contribution-grid-snake-dark.svg">
 </div>
+
+<!-- blog starts -->
+<!-- blog ends -->
