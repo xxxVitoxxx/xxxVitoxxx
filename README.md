@@ -7,3 +7,9 @@
 <div align="center">
   <img alt="snake game" src="https://raw.githubusercontent.com/xxxVitoxxx/xxxVitoxxx/output/github-contribution-grid-snake-dark.svg">
 </div>
+
+<!-- blog starts -->
+- [Binary Tree](https://xxxVitoxxx.github.io/2023/05/binary_tree/)
+- [Tree](https://xxxVitoxxx.github.io/2023/04/tree/)
+- [Linked List](https://xxxVitoxxx.github.io/2023/03/linked_list/)
+<!-- blog ends -->
