@@ -18,58 +18,50 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
 - [Linked List](https://xxxVitoxxx.github.io/2023/03/linked_list/)
 <!-- blog ends -->
 
-
-test
-
-<a>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"  
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"  
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
-</a>
-<a>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"  
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"  
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
-</a>
-
-test
-
 ## GitHub Stats
 
-<a href="https://github.com/xxxVitoxxx/imgo">
-  <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&show_icons=true&theme=radical&count_private=true&line_height=35">
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&theme=radical&count_private=true&line_height=35">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&count_private=true&line_height=35">
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&count_private=true&line_height=35">
+  </picture>
 </a>
-<a href="https://github.com/xxxVitoxxx/xxxVitoxxx.github.io">
-  <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&theme=radical&count_private=true&hide=html,javascript">
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&theme=radical&count_private=true&hide=html,javascript">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&count_private=true&hide=html,javascript">
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&count_private=true&hide=html,javascript">
+  </picture>
 </a>
 
 ## Project
 
 <a href="https://github.com/xxxVitoxxx/imgo">
-  <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=imgo&theme=radical">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=imgo&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=imgo">
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=imgo">
+  </picture>
 </a>
 <a href="https://github.com/xxxVitoxxx/xxxVitoxxx.github.io">
-  <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=xxxVitoxxx.github.io&theme=radical">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=xxxVitoxxx.github.io&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=xxxVitoxxx.github.io">
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=xxxVitoxxx.github.io">
+  </picture>
 </a>
 <a href="https://github.com/xxxVitoxxx/data-structure-and-algorithm">
-  <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=data-structure-and-algorithm&theme=radical">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=data-structure-and-algorithm&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=data-structure-and-algorithm">
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=data-structure-and-algorithm">
+  </picture>
 </a>
 <a href="https://github.com/xxxVitoxxx/Django_Blog">
-  <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=Django_Blog&theme=radical">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=Django_Blog&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=Django_Blog">
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=Django_Blog">
+  </picture>
 </a>
