@@ -91,4 +91,15 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
 ## Coding time in the last month
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 August 2023 - To: 14 September 2023
+
+Go             2 hrs 3 mins    🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜⬜⬜⬜   65.51 %
+Markdown       50 mins         🟦🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.76 %
+Jinja2         6 mins          🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.46 %
+Bash           3 mins          🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.02 %
+YAML           2 mins          🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.07 %
+```
+
 <!--END_SECTION:waka-->
