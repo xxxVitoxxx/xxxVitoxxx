@@ -1,0 +1,26 @@
+name: WakaTime README
+
+on:
+  push:
+    branches:
+      - main
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
+          SHOW_TITLE: true
+          BLOCKS: "⬜🟪🟦"
+          COMMIT_MESSAGE: "feat: update waka-readme graph with new metrics"

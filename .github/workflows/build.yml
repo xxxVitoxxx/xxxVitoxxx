@@ -1,8 +1,8 @@
-name: build README
+name: Build README
 
 on:
-  push:
   workflow_dispatch:
+  
   schedule:
     - cron: "0 * * * *"
 
