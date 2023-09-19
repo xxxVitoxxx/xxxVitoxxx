@@ -39,19 +39,17 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
 ## GitHub Stats
 
 <div align="center">
-  <a>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&theme=radical&count_private=true&line_height=35">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&count_private=true&line_height=35">
-      <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&count_private=true&line_height=35">
-    </picture>
+  <a href="https://github.com/xxxVitoxxx#gh-light-mode-only">
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&count_private=true&line_height=35">
   </a>
-  <a>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&theme=radical&count_private=true&hide=html,javascript">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&count_private=true&hide=html,javascript">
-      <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&count_private=true&hide=html,javascript">
-    </picture>
+  <a href="https://github.com/xxxVitoxxx#gh-dark-mode-only">
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=xxxVitoxxx&rank_icon=github&show_icons=true&theme=radical&count_private=true&line_height=35">
+  </a>
+  <a href="https://github.com/xxxVitoxxx#gh-light-mode-only">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&count_private=true&hide=html,javascript,css">
+  </a>
+  <a href="https://github.com/xxxVitoxxx#gh-dark-mode-only">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVitoxxx&layout=compact&theme=radical&count_private=true&hide=html,javascript,css">
   </a>
 </div>
 
@@ -88,7 +86,7 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
   </a>
 </div>
 
-## Coding time in the last month
+## Coding time in the recent 30 days
 
 <!--START_SECTION:waka-->
 
