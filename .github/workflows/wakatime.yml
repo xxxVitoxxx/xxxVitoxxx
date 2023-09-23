@@ -23,4 +23,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TITLE: true
           BLOCKS: "⬜🟪🟦"
-          COMMIT_MESSAGE: "feat: update waka-readme graph with new metrics"
+          COMMIT_MESSAGE: "chore: update waka-readme graph with new metrics"

@@ -77,6 +77,13 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
       <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=data-structure-and-algorithm">
     </picture>
   </a>
+  <a href="https://github.com/xxxVitoxxx/leetcode">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=leetcode&theme=radical">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=leetcode">
+      <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=leetcode">
+    </picture>
+  </a>
   <a href="https://github.com/xxxVitoxxx/Django_Blog">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xxxVitoxxx&repo=Django_Blog&theme=radical">
