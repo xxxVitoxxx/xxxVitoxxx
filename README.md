@@ -31,9 +31,7 @@
 Apart from coding, I also maintain a 📝 blog. you can find my articles on my website at [here](https://xxxvitoxxx.github.io/).  
 
 <!-- blog starts -->
-- [Floyd Cycle Detection Algorithm](https://xxxVitoxxx.github.io/2023/10/floyd_cycle_detection_algorithm/)
-- [Binary Tree](https://xxxVitoxxx.github.io/2023/05/binary_tree/)
-- [Tree](https://xxxVitoxxx.github.io/2023/04/tree/)
+
 <!-- blog ends -->
 
 ## GitHub Stats
