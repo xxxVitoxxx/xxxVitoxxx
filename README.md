@@ -98,10 +98,9 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 04 March 2026
+From: 04 February 2026 - To: 06 March 2026
 
-Go    3 hrs 50 mins         🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   99.94 %
-XML   0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.06 %
+Go   3 hrs 5 mins          🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   100.00 %
 ```
 
 <!--END_SECTION:waka-->
