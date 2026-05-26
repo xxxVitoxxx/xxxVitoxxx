@@ -98,11 +98,11 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 23 May 2026
+From: 24 April 2026 - To: 24 May 2026
 
-Go     1 hr 22 mins          🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜   77.61 %
-YAML   23 mins               🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.76 %
-Text   0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.63 %
+Go     1 hr 20 mins          🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜   77.24 %
+YAML   23 mins               🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.13 %
+Text   0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.64 %
 ```
 
 <!--END_SECTION:waka-->
