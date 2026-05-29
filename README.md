@@ -98,11 +98,9 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2026 - To: 26 May 2026
+From: 28 April 2026 - To: 28 May 2026
 
-Go     1 hr 20 mins          🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜   77.24 %
-YAML   23 mins               🟦🟦🟦🟦🟦🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.13 %
-Text   0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
