@@ -98,7 +98,7 @@ Apart from coding, I also maintain a 📝 blog. you can find my articles on my w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2026 - To: 30 July 2026
+From: 01 July 2026 - To: 31 July 2026
 
 Go           5 hrs 23 mins         🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜   75.82 %
 Markdown     44 mins               🟦🟦🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.48 %
